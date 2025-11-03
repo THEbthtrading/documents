@@ -1,0 +1,28 @@
+4H 	= vert
+2H 	= purple
+1h 	= rouge
+30 	= cyan
+15	 = orange
+5 	= jaune
+
+gap
+rth		= 	rect 	marron	 1 	plein - mid = pointille
+w rth	=	rect	purple	 2 	plein - mid = pointille
+eth		= 	rect 	bleu	 2 	plein - mid = pointille
+
+H/L
+D 		= 	line	bleu	1	pointille
+rth 	= 	line	purle	1	pointille
+W 		= 	line	purple	2	pointille
+M 		= 	line	noir	2	pointille
+
+
+trading
+ntz
+range d'open
+
+
+h4,h1,m15
+h1,30,10
+
+tant que le marche n'est pas plus loin que le fvg, on le garde
