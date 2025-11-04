@@ -31,3 +31,19 @@ h4,h1,m15
 h1,30,10
 
 tant que le marche n'est pas plus loin que le fvg, on le garde
+
+
+Business Day Calendar for October 2025
+--------------------------------------------
+Week 40: Wed 01, Thu 02, Fri 03
+Week 41: Mon 06, Tue 07, Wed 08, Thu 09, Fri 10
+Week 42: Mon 13, Tue 14, Wed 15, Thu 16, Fri 17
+Week 43: Mon 20, Tue 21, Wed 22, Thu 23, Fri 24
+Week 44: Mon 27, Tue 28, Wed 29, Thu 30, Fri 31
+
+Business Day Calendar for November 2025
+--------------------------------------------
+Week 45: Mon 03, Tue 04, Wed 05, Thu 06, Fri 07
+Week 46: Mon 10, Tue 11, Wed 12, Thu 13, Fri 14
+Week 47: Mon 17, Tue 18, Wed 19, Thu 20, Fri 21
+Week 48: Mon 24, Tue 25, Wed 26, Thu 27, Fri 28
