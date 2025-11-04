@@ -11,10 +11,15 @@ w rth	=	rect	purple	 2 	plein - mid = pointille
 eth		= 	rect 	bleu	 2 	plein - mid = pointille
 
 H/L
-D 		= 	line	bleu	1	pointille
-rth 	= 	line	purle	1	pointille
-W 		= 	line	purple	2	pointille
-M 		= 	line	noir	2	pointille
+D 		= 	line	bleu	2	pointille
+rth 	= 	line	purle	2	pointille
+W 		= 	line	purple	3	pointille
+M 		= 	line	noir	4	pointille
+
+op		=	line	orange	2	points
+
+ob		=	rectangle	noir	1	points	+noir
+
 
 
 trading
